@@ -1,0 +1,22 @@
+C:\Users\CodeF\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\CodeF\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\CodeF\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\CodeF\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\CodeF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\CodeF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\CodeF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\CodeF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\CodeF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\CodeF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\CodeF\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Programlama\Calismalar\hobi\display_broke_junk\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Programlama\Calismalar\hobi\display_broke_junk\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Programlama\Calismalar\hobi\display_broke_junk\WindowsApplication1\WindowsApplication1\bin\Debug\SpolyMusic.exe.config
+C:\Programlama\Calismalar\hobi\display_broke_junk\WindowsApplication1\WindowsApplication1\bin\Debug\SpolyMusic.exe
+C:\Programlama\Calismalar\hobi\display_broke_junk\WindowsApplication1\WindowsApplication1\bin\Debug\SpolyMusic.pdb
+C:\Programlama\Calismalar\hobi\display_broke_junk\WindowsApplication1\WindowsApplication1\bin\Debug\SpolyMusic.xml
+C:\Programlama\Calismalar\hobi\display_broke_junk\WindowsApplication1\WindowsApplication1\obj\Debug\SpolyMusic.exe
+C:\Programlama\Calismalar\hobi\display_broke_junk\WindowsApplication1\WindowsApplication1\obj\Debug\SpolyMusic.xml
+C:\Programlama\Calismalar\hobi\display_broke_junk\WindowsApplication1\WindowsApplication1\obj\Debug\SpolyMusic.pdb
+C:\Programlama\Calismalar\hobi\display_broke_junk\WindowsApplication1\WindowsApplication1\obj\Debug\SpolyMusic.SpolyMusic.resources
+C:\Programlama\Calismalar\hobi\display_broke_junk\WindowsApplication1\WindowsApplication1\obj\Debug\SpolyMusic.Resources.resources
